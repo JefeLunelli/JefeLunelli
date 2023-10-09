@@ -13,10 +13,7 @@ Estou a pouco tempo estudando na programação, mas ja consegui me apaixonar pel
 
 O que estou estudando?
 
-- <img src="
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          ">Java
-- <img src="<i class="<i class= "devicon-javascript-plain"></i>" alt="JavaScript">JavaScript | HTML | CSS
+!JavaScript
 - <img src="<i class="<i class="devicon-typescript-plain"></i>">" alt="TypeScript">TypeScript
 - <img src="<i class="<i class="devicon-angularjs-plain"></i>" alt="Angular">Angular
 - <img src="<i class="<i class="devicon-nodejs-plain-wordmark"></i>" alt="Node">Node
