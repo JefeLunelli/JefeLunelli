@@ -13,14 +13,13 @@ Estou a pouco tempo estudando na programação, mas ja consegui me apaixonar pel
 
 O que estou estudando?
 
-- Java Básico
-- Javascript | HTML | CSS
-- TypeScript
-- Angular
-- Banco de Dados Relacional
-- Node
-- Programação Orientada a Objetos
-- Git e GitHub
+- <img src="<i class="<i class="devicon-java-plain"></i>" alt="Java Básico">Java Básico
+- <img src="<i class="<i class= "devicon-javascript-plain"></i>" alt="JavaScript">JavaScript | HTML | CSS
+- <img src="<i class="<i class="devicon-typescript-plain"></i>">" alt="TypeScript">TypeScript
+- <img src="<i class="<i class="devicon-angularjs-plain"></i>" alt="Angular">Angular
+- <img src="<i class="<i class="devicon-nodejs-plain-wordmark"></i>" alt="Node">Node
+- <img src="<i class="https://cdn4.iconfinder.com/data/icons/technology-83/1000/object_programming_development_oriented_developer_object-oriented_programming_software-512.png" alt="OOP">Programação Orientada a Objetos
+- <img src="<i class="<i class="devicon-git-plain"></i> <i class="devicon-github-original"></i>" alt="Git e Github">Git e GitHub
 
 <div>
 <a href="https://github.com/dfilitto">
