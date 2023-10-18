@@ -25,5 +25,4 @@ O que estou estudando?
 <div>
 <a href="https://github.com/dfilitto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefeLunelli&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefeLunelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
