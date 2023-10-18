@@ -23,6 +23,6 @@ O que estou estudando?
 - Git e GitHub
 
 <div>
-<a href="https://github.com/dfilitto">
+<a href="https://github.com/JefeLunelli">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefeLunelli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
