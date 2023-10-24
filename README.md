@@ -1,4 +1,4 @@
-<p><img src="https://media.licdn.com/dms/image/D4D16AQFK7ID_8nfJvQ/profile-displaybackgroundimage-shrink_350_1400/0/1696877723648?e=1702512000&v=beta&t=bzlQdyynZC_W6-k4Bp4Jh3tSq5m3JJznkQBps9loiEM" width="100%" height="auto"/></p>
+<p><img src="https://media.licdn.com/dms/image/D4D16AQHOdsJX9tP17A/profile-displaybackgroundimage-shrink_350_1400/0/1698167809123?e=1703721600&v=beta&t=RTfioAnUXuwHvaf9HBbbQpY-Sv0S7xIOVlffYpyw1dU" width="100%" height="auto"/></p>
 <p align="right">
   <a href="https://https://www.linkedin.com/in/jeferson-lunelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
